@@ -24,7 +24,10 @@
   &nbsp;
   &nbsp;
   ## Installation:
-  To install necessary dependencies, run the following command:
+  1. Clone this repository to a local file.
+  2. This application runs on node.js. If you don't have it installed, download [Node.js](https://nodejs.org/en/) (version 16.18.0 LTE).
+  3. To install necessary dependencies, run the following command:
+
   >            npm i
   
 
@@ -41,6 +44,7 @@
   &nbsp;
   &nbsp;
   ## License:
+
       This project is licensed under the MIT license.
 
     
@@ -56,9 +60,8 @@
   &nbsp;
   ## Tests:
   To run tests, run the following command:
+
   >            npm test
-  &nbsp;
-  &nbsp;
   
   &nbsp;
   &nbsp;
