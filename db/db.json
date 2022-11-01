@@ -1,6 +1,18 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "10-31-2022",
+        "text": "Today sucked. I hate not being able to figure out how to get my project to run."
+    },
+    {
+        "title": "11-01-2022",
+        "text": "New day, new month...moving on and charging ahead!"
+    },
+    {
+        "title": "11-02-2022",
+        "text": "Uuhhgg! This is like a rollercoaster!"
     }
 ]
